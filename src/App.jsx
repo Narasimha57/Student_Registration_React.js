@@ -6,7 +6,6 @@ import Courses from "./components/Courses";
 import CourseOfferings from "./components/CourseOfferings";
 import StudentRegistration from "./components/StudentRegistration";
 import Header from "./components/Header";
-import Navbar from "./components/Navbar";
 
 const App = () => {
   const [activeTab, setActiveTab] = useState("courseTypes");
